@@ -21,6 +21,8 @@
 
 ## 7. Belief in a complex 'truth' landscape
 
+* [Analysis of Competing Hypotheses](7.-belief-in-a-complex-'truth'-landscape/analysis-of-competing-hypotheses.md)
+
 ## 8. Challenging belief
 
 ## 9. Lies, damned lies
