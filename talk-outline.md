@@ -17,8 +17,9 @@ What is Data science
 
 DS and uncertainty
 
-* law of large numbers
+* Belief
 * Bayesian probability theory
+* law of large numbers
 * Sampling and sample sizes: effects on error bars
 * Uncertainty in development: why agile cycles help to adjust... 
 
@@ -37,13 +38,23 @@ Misinformation
 Misinformation handling mechanisms
 
 * ACH
+* crowd verification
 * Pre-Bayesian reasoning systems
 
 Conclusions
 
 * Where to go from here
-* Useful things to read
 * Thank you
+
+Appendix
+
+* Useful things to read
+* Belief in communities
+* Belief hacking
+* Lessons from robotics
+* Belief as a moving thing \(and how to track it\)
+
+
 
 
 
