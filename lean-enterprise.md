@@ -18,13 +18,13 @@ Internet is made of belief, and has a lot of these. If I talk to you, I trust it
 
 What about gaming - is it possible for our competitors to game us?  What becomes 'fair' in this environment?
 
+"What is the mission of the press?" "What is the mission of the org?" "what is the mission of your sector?"  Understand your environment, your ecosystem.  Understand that you won't ever understand all of it \(the "naughty baby" problem\) and build in adaptation to that.  Understand that your world drifts over time \('the structure of scientific revolutions'\) - understand what is relatively stable and what you need to track.
 
+What is the mission of intelligence? Knowing what's going on? Adapting what's going on to fit a larger goal? Both?  But you never get perfect information, or perfect goals, so you need to add in time: test, learn, adapt.
 
+Goals are outcomes, not outputs
 
-
-"What is the mission of the press?" "What is the mission of the org?"
-
-
+Personas: Who are these people? What are their beliefs? How do they believe things?  Also need to look at markets: is there a hole in the market, is there a market in the hole \(as in, how many of each type of person is there, which of these types is it worth reaching out to, and why?\)
 
 
 

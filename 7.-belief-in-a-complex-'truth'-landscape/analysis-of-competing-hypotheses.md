@@ -12,14 +12,14 @@ Analysis of Competing Hypotheses \(ACH\) came out of the CIA in the 1970s.  Like
 
 The matrix of evidence vs hypotheses is key in ACH.  In real-world situations, this matrix is both large and sparse; other representations of it include belief networks \(Elsaessar\), with bet-like weights assigned to the input evidence \("value of information"\).
 
-ACH can be a useful reasoning framework. Criticisms include biases introduced by misinformation, and by social bias of the person\(s\) constructing the grid.  Basically, ACH reflects our own biases about the world, and it's hard work to build counter to those biases.  ACH is also flat: it doesn't typically consider the hierarchies of hypotheses that often occur in the real world \(this is however covered in Structural ACH, SACH\); other variants include Collaborative ACH \(CACHE\). 
+ACH can be a useful reasoning framework. Criticisms include biases introduced by misinformation, and by social bias of the person\(s\) constructing the grid.  Basically, ACH reflects our own biases about the world, and it's hard work to build counter to those biases.  ACH is also flat: it doesn't typically consider the hierarchies of hypotheses that often occur in the real world \(this is however covered in Structural ACH, SACH\); other variants include Collaborative ACH \(CACHE\).
 
 .
 
 ## References
 
 * [https://en.wikipedia.org/wiki/Analysis\\_of\\_competing\\_hypotheses](https://en.wikipedia.org/wiki/Analysis\_of\_competing\_hypotheses)
-* https://cse.sc.edu/~mgv/reports/IA-05.pdf 
+* [https://cse.sc.edu/~mgv/reports/IA-05.pdf](https://cse.sc.edu/~mgv/reports/IA-05.pdf)
 
 * 
 
