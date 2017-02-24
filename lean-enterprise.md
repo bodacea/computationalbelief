@@ -26,3 +26,5 @@ Goals are outcomes, not outputs
 
 Personas: Who are these people? What are their beliefs? How do they believe things?  Also need to look at markets: is there a hole in the market, is there a market in the hole \(as in, how many of each type of person is there, which of these types is it worth reaching out to, and why?\)
 
+Causes of uncertainty...  \(missing data -&gt; imputation, \)... how much uncertainty is acceptable?  How much misinformation before the belief system starts to collapse? 
+
