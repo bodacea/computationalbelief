@@ -10,7 +10,8 @@
 
 ## 1. What is belief?
 
-* Humans as Robots
+* [Humans as Robots](1.-what-is-belief/humans-as-robots.md)
+* Belief
 
 ## 2. Human belief
 
