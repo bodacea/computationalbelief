@@ -6,7 +6,7 @@
 * [Why am I writing about belief?](why-am-i-writing-about-belief.md)
 * [Talk outline](talk-outline.md)
 * [Lean enterprise](lean-enterprise.md)
-* [xxx](xxx.md)
+* [lies](xxx.md)
 
 ## 1. What is belief?
 
