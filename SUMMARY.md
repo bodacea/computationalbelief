@@ -6,6 +6,7 @@
 * [Why am I writing about belief?](why-am-i-writing-about-belief.md)
 * [Talk outline](talk-outline.md)
 * [Lean enterprise](lean-enterprise.md)
+* [xxx](xxx.md)
 
 ## 1. What is belief?
 
@@ -28,6 +29,8 @@
 ## 8. Challenging belief
 
 ## 9. Lies, damned lies
+
+* Processing a lie
 
 ## 10. Trust, but verify
 
