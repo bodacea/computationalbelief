@@ -6,7 +6,7 @@
 * [Why am I writing about belief?](why-am-i-writing-about-belief.md)
 * [Talk outline](talk-outline.md)
 * [Lean enterprise](lean-enterprise.md)
-* [lies](xxx.md)
+* [Disinformation](xxx.md)
 
 ## 1. What is belief?
 
@@ -25,7 +25,7 @@
 
 ## 7. Belief in a complex 'truth' landscape
 
-* [Analysis of Competing Hypotheses](7.-belief-in-a-complex-'truth'-landscape/analysis-of-competing-hypotheses.md)
+* [\[Analysis of Competing Hypotheses\]\(7.-belief-in-a-complex-'truth'-landscape/analysis-of-competing-hypotheses.md\)](7-belief-in-a-complex-truth-landscape/analysis-of-competing-hypotheses7-belief-in-a-complex-truth-landscapeanalysis-of-competing-hypothesesmd.md)
 
 ## 8. Challenging belief
 
@@ -34,4 +34,8 @@
 * Processing a lie
 
 ## 10. Trust, but verify
+
+## Appendix
+
+* References
 
